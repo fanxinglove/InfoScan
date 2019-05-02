@@ -14,7 +14,7 @@
 
 `python3 scan.py -h`
 
-![](D:\python36\project\InfoScan\images\1.png)
+![](https://raw.githubusercontent.com/fanxinglove/InfoScan/master/images/1.png)
 
 ##### 子域名采集
 
